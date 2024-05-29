@@ -39,13 +39,13 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-top: 20px;
-    margin-left: 20px;
+    margin-top: 40px;
+    margin-left: 40px;
     /* optional: adds some space between the buttons */
 }
 
 .btn {
-    background-color: #2787f4;
+    background-color: #1584a2;
     color: white;
     padding: 15px 32px;
     text-align: center;
