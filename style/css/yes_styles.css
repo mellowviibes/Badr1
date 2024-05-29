@@ -3,13 +3,13 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #F8C8DC;
+    background-color: #000000;
     background-image: url('../images/cat_background.jpg');
 }
 
 .header_text{
     font-family: 'Nunito';
-    font-size: 45px;
+    font-size: 55px;
     font-weight: bold;
     color: white;
     text-align: center;
@@ -17,12 +17,12 @@ body {
     margin-bottom: 0px;
 
     /* Add text shadow for thickness and dark pink lining */
-    text-shadow: 1px 0px 4px #ff6ebb;
+    text-shadow: 1px 0px 4px #20a6e9;
 
 }
 .text {
     font-family: 'Nunito';
-    font-size: 25px;
+    font-size: 35px;
     font-weight: bold;
     color: white;
     text-align: center;
@@ -30,7 +30,7 @@ body {
     margin-bottom: 0px;
 
     /* Add text shadow for thickness and dark pink lining */
-    text-shadow: 1px 0px 4px #ff6ebb;
+    text-shadow: 1px 0px 4px #20a6e9;
 }
 
 
